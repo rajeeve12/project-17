@@ -1,0 +1,3 @@
+const removeTour == (id) => {
+    setTours(tours.filter(tour => tour.id !== id));
+  };
